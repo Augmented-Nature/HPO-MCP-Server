@@ -1,6 +1,9 @@
-# HPO MCP Server
+![Logo](logo.png)
+# Unofficial HPO MCP Server
 
 An MCP (Model Context Protocol) server that provides access to the Human Phenotype Ontology (HPO) API. The HPO contains over 18,000 terms describing human phenotypic abnormalities and is widely used in genetic research and clinical diagnostics.
+
+**Developed by [Augmented Nature](https://augmentednature.ai)**
 
 ## Features
 
